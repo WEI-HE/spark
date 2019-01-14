@@ -97,3 +97,7 @@ building for particular Hive and Hive Thriftserver distributions.
 
 Please refer to the [Configuration Guide](http://spark.apache.org/docs/latest/configuration.html)
 in the online documentation for an overview on how to configure Spark.
+
+
+## Note
+This is a version of annotation by me.
